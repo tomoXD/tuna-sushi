@@ -15,7 +15,8 @@ fields:
 - type: text
   name: aku
   label: description
-  description: Halo aku Adit aku dari smkn pasirian kejuruan multimedia
 - type: text
   name: toc
   label: toc
+pages:
+- website/content/blog/perknalan.md

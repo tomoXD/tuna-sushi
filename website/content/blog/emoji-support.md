@@ -1,16 +1,16 @@
 ---
-title: "Emoji Support"
-date: 2021-04-03T22:53:58+05:30
-draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+title: Emoji Support
+date: 2021-04-03T22:53:58.000+05:30
+github_link: https://github.com/gurusabarish/hugo-profile
+author: Gurusabarish
 tags:
-  - Emoji support
-bg_image: ""
-description: ""
+- Emoji support
+bg_image: ''
+description: ''
 toc: 
----
+draft: true
 
+---
 Emoji can be enabled in a Hugo project in a number of ways.
 
 The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
