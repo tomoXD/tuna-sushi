@@ -6,4 +6,4 @@ toc = ""
 tomo = "perkenalan"
 
 +++
-Hey.... Aku Aditya Pambudi Utomo biasa di panggil Tomo. Aku membuat wibesite ini karena tugas sekolah 😐👌
+n
