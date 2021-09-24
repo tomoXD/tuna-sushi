@@ -1,25 +1,21 @@
 ---
-label: tomo
+label: perkenalan
 hide_body: false
+display_field: title
 fields:
 - type: text
-  name: title
+  name: tomo
   label: title
 - type: datetime
-  name: date
+  name: 24/09/21
   label: date
 - type: text
-  name: author
+  name: Aditya_Pambudi_Utomo
   label: author
-- type: list
-  name: tags
-  label: tags
 - type: text
-  name: bg_image
-  label: bg_image
-- type: text
-  name: description
+  name: aku
   label: description
+  description: Halo aku Adit aku dari smkn pasirian kejuruan multimedia
 - type: text
   name: toc
   label: toc
