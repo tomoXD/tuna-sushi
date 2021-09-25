@@ -1,5 +1,5 @@
 +++
-"24/09/21" = 2021-09-24T17:00:00Z
+"24/09/21" = 2021-09-25T06:37:00Z
 Aditya_Pambudi_Utomo = "Aditya Pambudi Utomo"
 aku = ""
 toc = ""
