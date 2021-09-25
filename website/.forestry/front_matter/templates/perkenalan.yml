@@ -19,4 +19,5 @@ fields:
   name: toc
   label: toc
 pages:
+- website/content/blog/TEST.md
 - website/content/blog/perknalan.md
