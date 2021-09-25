@@ -6,6 +6,8 @@ toc = ""
 tomo = "perkenalan"
 
 +++
+**PERKENALAN DIRI**
+
 Halo aku Adit aku dari smkn pasirian kejuruan multimedia.
 
 ![](/uploads/lap.jpg)
